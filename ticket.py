@@ -1,3 +1,8 @@
+""" https://chatgpt.com/share/67041fe3-6afc-8011-b1d2-166f48dc3f2c
+
+I used chat gtp to help me delevop this code"""
+
+
 # Initialize the seating list
 seating_list = list(range(1, 35))  # seats numbered 1 to 36
 

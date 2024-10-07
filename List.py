@@ -1,3 +1,7 @@
+""" I used chat GTP To make this code here is the link
+https://chatgpt.com/share/67041fe3-6afc-8011-b1d2-166f48dc3f2c """
+
+
 # create list of days
 days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
